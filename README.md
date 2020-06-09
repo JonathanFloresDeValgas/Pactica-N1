@@ -1,3 +1,3 @@
 # Pactica-N1
 
-| n Multimetros |--------------| n Multimetros |  
+| n Multimetros |____________| n Multimetros |  
