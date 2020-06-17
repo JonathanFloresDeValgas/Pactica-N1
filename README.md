@@ -58,14 +58,14 @@ Las leyes de Kirchhoff fueron formuladas por Gustavo Kirchhoff en 1845. Estas so
  
  9.- CRONOGRAMA:
   
+  ![](https://github.com/JonathanFloresDeValgas/Pactica-N1/blob/master/img/CronogramaP1.PNG)
+  
  10.- BIBLIOGRAFIA
  
  - Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F.
  - Física Práctica. (2007). Obtenido de www.fisicapractica.com: https://www.fisicapractica.com/leyes-kirchhoff.php
  
  11.- ANEXOS:
- 
- ![](https://github.com/JonathanFloresDeValgas/Pactica-N1/blob/master/img/CronogramaP1.PNG)
  
  Cálculos: 
  
