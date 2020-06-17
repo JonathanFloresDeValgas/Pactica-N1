@@ -71,7 +71,24 @@ Las leyes de Kirchhoff fueron formuladas por Gustavo Kirchhoff en 1845. Estas so
  
  ![](https://github.com/JonathanFloresDeValgas/Pactica-N1/blob/master/img/C%C3%A1lculosP1.png)
 
+ Tablas:
  
+ Tabla 1. 
+Valores teóricos y experimentales de voltaje y corriente.
+
+![]()
+
+Tabla 2.
+Verificación de la ley de voltajes de Kirchhoff
+
+![]()
+
+
+Tabla 3.
+Verificación de la ley de corrientes de Kirchhoff
+
+![]()
+
  
 
 
