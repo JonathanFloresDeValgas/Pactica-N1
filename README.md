@@ -65,6 +65,10 @@ Las leyes de Kirchhoff fueron formuladas por Gustavo Kirchhoff en 1845. Estas so
  
  11.- ANEXOS:
  
+ Cálculos: 
+ 
+ ![](https://github.com/JonathanFloresDeValgas/Pactica-N1/blob/master/img/C%C3%A1lculosP1.png)
+
  
  
 
